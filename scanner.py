@@ -88,7 +88,7 @@ def main():
         print(f" Recomendaciones de Seguridad:")
         print(f"   * Retire de inmediato los archivos expuestos y restrinja el acceso a nivel de servidor web.")
     else:
-        print(f" Nenhuma exposicao publica detectada nas rotas monitoradas.")
+        print(f" Ninguna exposición pública detectada en las rutas monitorizadas.")
     print(border)
 
 if __name__ == "__main__":
