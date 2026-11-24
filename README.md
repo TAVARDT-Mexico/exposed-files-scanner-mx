@@ -1,4 +1,4 @@
-# Escáner de Archivos y Credenciales Expuestas | TAVARDT México
+# Escáner de Archivos y Credenciales Expuestas
 
 [![Escaneo Archivos Expuestos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/mx/escaneo-archivos-expuestos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para escaneos corporativos continuos con interfaz grafica, acceda a la herramien
 ## Consultoria en Seguridad Ofensiva
 
 Para pruebas de penetracion y gestion de superficie de ataque en Mexico, consulte a los especialistas de **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
