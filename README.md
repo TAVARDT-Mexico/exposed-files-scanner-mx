@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de ciberseguridad ofensiva de **TAVARDT
 Requiere unicamente Python 3.8 o superior sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/exposed-files-scanner-mx.git
+git clone https://github.com/TAVARDT/exposed-files-scanner-mx.git
 cd exposed-files-scanner-mx
 python scanner.py empresa.mx
 ```
