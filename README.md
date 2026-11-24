@@ -5,7 +5,7 @@
 
 Escáner de superficie de ataque para detección automatizada de variables de entorno, respaldos de bases de datos y credenciales expuestas.
 
-Desarrollado y mantenido por la division de ciberseguridad ofensiva de **TAVARDT Mexico**.
+Desarrollado y mantenido por la division de ciberseguridad ofensiva de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py empresa.mx -json
 Para escaneos corporativos continuos con interfaz grafica, acceda a la herramienta oficial:
 
 * **Escaneo de Archivos Expuestos**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Consultoria en Seguridad Ofensiva
 
-Para pruebas de penetracion y gestion de superficie de ataque en Mexico, consulte a los especialistas de **TAVARDT Mexico**.
+Para pruebas de penetracion y gestion de superficie de ataque en Mexico, consulte a los especialistas de **TAVARDT**.
 
 ***
 
