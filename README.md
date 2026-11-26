@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/mx/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Escáner de Archivos y Credenciales Expuestas
 
 [![Escaneo Archivos Expuestos](https://img.shields.io/badge/TAVARDT-Superficie%20de%20Ataque-5b3cf5.svg)](https://tools.tavardt.com/mx/escaneo-archivos-expuestos/)
